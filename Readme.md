@@ -1,6 +1,6 @@
 # Welcome to the RESTful Blog
 
-this is a proyect that uses a RESTful
+This is a project that uses a RESTful
 API developed by me done in flask, python.
 
 It handles HTTP Requests to post, update, and delete 
